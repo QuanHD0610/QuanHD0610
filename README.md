@@ -1,26 +1,37 @@
-# 👋 Hi, I'm Hoàng Đức Quân
+# Hoang Duc Quan 👋
 
-## 👀 About Me
-- I'm passionate about **software development** and enjoy working with **.NET, JavaScript, and PHP**.
-- I’m interested in building **efficient backend systems** and **user-friendly web applications**.
-- Currently, I'm focusing on **ASP.NET MVC** and **RESTful API** development.
+Welcome to my GitHub profile! I am a final-year Software Technology student at Ho Chi Minh City University of Industry and Trade, passionate about software development and learning new technologies.
 
-## 🌱 What I'm Learning
-- I'm currently enhancing my knowledge in **design patterns**, **SOLID principles**, and **microservices architecture**.
-- Exploring **cloud computing** and **containerization** with **Docker**.
+## 👀 I am interested in:
+- Object-oriented software design and development
+- Database design and management
+- Writing clean code and software architecture
+- Contributing to open-source projects
 
-## 💞️ Collaboration
-- I'm looking to collaborate on projects related to **backend development**, **full-stack applications**, and **RESTful services**.
-- Open to contributing to **open-source projects** and collaborating on **innovative solutions**.
+## 🌱 I am currently studying:
+- **Software Technology** at Ho Chi Minh City University of Industry and Trade (2021 - 2025)
 
-## 📫 How to Reach Me
-- **Email:** hoangquan12092003@gmail.com
-- **LinkedIn:** [QuanHD0610](https://www.linkedin.com/in/quanhd0610)
-- **GitHub:** [QuanHD0610](https://github.com/QuanHD0610)
+## 💞️ I am looking for:
+- Opportunities to participate in software development projects
+- Collaboration with technical teams and developers
 
-## 😄 Pronouns
-- He/Him
+## 📫 How to reach me:
+- 📧 Email: [hoangquan12092003@gmail.com](mailto:hoangquan12092003@gmail.com)
+- 📞 Phone: 0886453797
+- 🌍 LinkedIn: [linkedin.com/in/quanhd0610](https://www.linkedin.com/in/quanhd0610)
+- 🏠 Address: Tan Phu District, Ho Chi Minh City
 
-## ⚡ Fun Fact
-- I'm a fan of **reading books** about software development, and my favorites include "Clean Code" and "C# in Depth".
-- I also enjoy **keeping fit** through regular workouts and exploring the latest **tech trends** on Medium and Quora.
+## 🛠 Skills
+- **Programming Languages:** C# - .NET, JavaScript, Java, PHP
+- **Frameworks and Platforms:** ASP.NET MVC, Web API, Entity Framework, Laravel, jQuery, Bootstrap, Tailwind
+- **Database Management Systems:** MS SQL Server, MySQL, MongoDB, SQLite 
+- **Project Management:** Git, GitHub
+- **Soft Skills:** Time management, Business communication, Teamwork
+
+## 🎯 Interests
+- Reading books, technology blogs, Medium, and Quora
+- Favorite books: Clean Code, Head First Design Pattern, C# in Depth, Working with Legacy Code
+
+---
+
+Thank you for visiting my GitHub profile! If you have any questions or would like to collaborate, feel free to reach out to me.
